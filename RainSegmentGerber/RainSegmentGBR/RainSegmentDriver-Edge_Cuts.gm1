@@ -1,0 +1,23 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.0*
+G04 #@! TF.CreationDate,2024-11-14T09:55:02-06:00*
+G04 #@! TF.ProjectId,RainSegmentDriver,5261696e-5365-4676-9d65-6e7444726976,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Profile,NP*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.0) date 2024-11-14 09:55:02*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,Profile*
+%ADD10C,0.050000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+X123150000Y-65480000D02*
+X174730000Y-65480000D01*
+X174730000Y-116280000D01*
+X123150000Y-116280000D01*
+X123150000Y-65480000D01*
+M02*
