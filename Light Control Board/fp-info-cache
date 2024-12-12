@@ -1,4 +1,4 @@
-23094457165885381
+23101376625847819
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87112,7 +87112,7 @@ DS26C31TMX
 
 
 0
-17
+16
 16
 SMM
 I50115
@@ -87178,6 +87178,13 @@ Metro-Mini
 28
 28
 SMM
+Mini Fuse Holder
+
+
+0
+4
+2
+SMM
 Resistor_L6.3mm_D2.5mm_P10.16mm_Horizontal
 Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
 Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
@@ -87191,6 +87198,20 @@ Rover_Trimpot
 0
 3
 3
+SMM
+SN74A
+
+
+0
+14
+14
+SMM
+SSD1306 128x32 SPI OLED graphic display
+
+
+0
+8
+8
 SMM
 TCAN1462VDRQ1
 
@@ -87263,6 +87284,13 @@ smm-logo-25mm
 0
 SMM
 smm-spiral-05mm
+
+
+0
+0
+0
+SMM
+smm-spiral-05mm-Back
 
 
 0
