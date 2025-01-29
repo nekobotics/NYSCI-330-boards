@@ -479,7 +479,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../LightControlBoardGerber/",
+      "plot": "../LightControlBoardGerber/CSS_LightControlGBR/",
       "pos_files": "../LightControlBoardGerber/",
       "specctra_dsn": "",
       "step": "",
